@@ -1,7 +1,5 @@
-
-
+<h1 align="center">Mai Văn Hòa</h1>
 <p align="center">
-  <h1>Mai Văn Hòa</h1>
   <img src="https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar.jpg?raw=true" width="350" style="border-radius:50%">
 </p>
 
