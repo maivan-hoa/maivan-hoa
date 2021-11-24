@@ -1,11 +1,12 @@
-### Mai Văn Hòa - HUST
+
 
 <p align="center">
-  <img src="https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar.jpg?raw=true" width="350" title="hover text">
+  <h1>Mai Văn Hòa</h1>
+  <img src="https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar.jpg?raw=true" width="350" style="border-radius:50%">
 </p>
 
 <!--
-
+### Mai Văn Hòa - HUST
 ![alt text](https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar.jpg?raw=true)
 
 
