@@ -1,8 +1,8 @@
 <h1 align="center">Mai Văn Hòa</h1>
 <p float="left" align="center">
-  <img src="https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar_git.png?raw=true" width="350">
-  <img src="https://github-readme-stats.vercel.app/api?username=maivan-hoa&show_icons=true&count_private=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maivan-hoa&hide=javascript,css,scss,html&layout=compact&theme=dark" />
+  <div><img src="https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar_git.png?raw=true" width="350"></div>
+  <div><img src="https://github-readme-stats.vercel.app/api?username=maivan-hoa&show_icons=true&count_private=true&theme=dark"></div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maivan-hoa&hide=javascript,css,scss,html&layout=compact&theme=dark" /></div>
 </p>
 
 
