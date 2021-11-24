@@ -3,6 +3,8 @@
   <img src="https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar_git.png?raw=true" width="350" style="border-radius:50%">
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maivan-hoa&count_private=false&show_icons=true&hide_border=false">
+
 <!--
 ### Mai Văn Hòa - HUST
 ![alt text](https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar.jpg?raw=true)
