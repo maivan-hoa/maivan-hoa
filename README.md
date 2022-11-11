@@ -26,8 +26,8 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
-      <br>GitHub
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="65" height="65" />
+      <br>PyTorch
     </td>
     
 <!--     <td align="center" width="96">
