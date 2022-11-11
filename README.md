@@ -90,6 +90,8 @@
   </tr>
 </table>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maivan-hoa)](https://git.io/streak-stats)
+
 <!--
 ### Mai Văn Hòa - HUST
 ![alt text](https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar.jpg?raw=true)
