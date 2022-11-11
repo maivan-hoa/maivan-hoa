@@ -25,7 +25,7 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
@@ -52,7 +52,7 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
       <br>Kubernetes
-    </td>
+    </td> -->
   </tr>
   
   
