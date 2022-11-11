@@ -89,7 +89,7 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>redis
     </td> -->
-<!--   </tr> -->
+  </tr>
 </table>
 
 
