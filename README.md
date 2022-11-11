@@ -96,9 +96,9 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats) -->
 
- 
+ <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true"></div>
   
 <!--
 ### Mai Văn Hòa - HUST
