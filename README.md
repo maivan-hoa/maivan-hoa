@@ -90,9 +90,9 @@
   </tr>
 </table>
 
-<div aligin='center'>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maivan-hoa)](https://git.io/streak-stats)
-</div>
+<p align='center'>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+</p>
  
   
 <!--
