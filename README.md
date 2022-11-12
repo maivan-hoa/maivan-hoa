@@ -15,9 +15,6 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 
-
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
 <!--   <div align="center"><img src="https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar_git.png?raw=true" width="350"></div> -->
