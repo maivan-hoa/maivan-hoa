@@ -21,6 +21,8 @@
   <div align="center"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=maivan-hoa&show_icons=true&count_private=true&theme=tokyonight"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maivan-hoa&hide=javascript,css,scss,html&layout=compact&theme=tokyonight" /></div>
 </p>
 
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true"></div>
+
 ## My favorite tools and technologies ⚙️ 
 
 <!-- > Tools and technologies that I have worked with and am interested in -->
@@ -119,7 +121,7 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats) -->
 
- <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true"></div>
+
  
  
  
