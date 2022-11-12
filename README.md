@@ -8,9 +8,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 👨‍🎓 Education: Hanoi University of Science and Technology <br>
-👨‍💻 Major: Engineer's of Computer Science <br>
-🐙 <a href="https://github.com/maivan-hoa" target="blank">![Github](https://img.shields.io/badge/-Github-fff?&logo=Github&logoColor=000000)</a> <br>
-🐉 <a href="https://www.facebook.com/mv.hoa99" target="blank">![FB](https://img.shields.io/badge/-facebook-fff?&logo=facebook&logoColor=4169e1)</a> <br>
+👨‍💻 Major: Engineer's of Computer Science <br> <br>
+<a href="https://github.com/maivan-hoa" target="blank">![Github](https://img.shields.io/badge/-Github-fff?&logo=Github&logoColor=000000)</a>
+<a href="https://www.facebook.com/mv.hoa99" target="blank">![FB](https://img.shields.io/badge/-facebook-fff?&logo=facebook&logoColor=4169e1)</a>
 
 <!-- ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
