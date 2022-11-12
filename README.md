@@ -1,4 +1,4 @@
-<h1 align="center">Mai Văn Hòa</h1>
+<!-- <h1 align="center">Mai Văn Hòa</h1> -->
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8F!!!;I'm+Mai+Văn+Hòa%F0%9F%8E%89" alt="Typing SVG" /></a>
