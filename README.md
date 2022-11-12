@@ -7,7 +7,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+👨‍🎓 Education: Hanoi University of Science and Technology <br>
+🐙 <a href="https://github.com/maivan-hoa" target="blank">![Github](https://img.shields.io/badge/-Github-fff?&logo=Github&logoColor=000000)</a>
+🐉 <a href="https://www.facebook.com/mv.hoa99" target="blank">![FB](https://img.shields.io/badge/-facebook-fff?&logo=facebook&logoColor=4169e1)</a> 
+
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
@@ -23,7 +26,7 @@
 
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true"></div>
 
-## My favorite tools and technologies ⚙️ 
+<!-- ## My favorite tools and technologies ⚙️  -->
 
 <!-- > Tools and technologies that I have worked with and am interested in -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
