@@ -1,5 +1,5 @@
 <h1 align="center">Mai Văn Hòa</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8F!!!;I'm+Mai+Văn+Hòa%F0%9F%8E%89" alt="Typing SVG" /></a>
 
@@ -110,7 +110,10 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats) -->
 
  <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=maivan-hoa&theme=tokyonight_duo&hide_border=true"></div>
-  
+ 
+ 
+ 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--
 ### Mai Văn Hòa - HUST
 ![alt text](https://github.com/maivan-hoa/maivan-hoa/blob/main/avatar.jpg?raw=true)
